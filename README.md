@@ -36,11 +36,14 @@ A Python TCP client-server chat application with a desktop GUI, multi-client sup
 ## Project Structure
 
 ```text
-SocketEcho-GUI/
+ChatApplication/
 ├── Client.py
 ├── Server.py
 ├── README.md
-├── .gitignore
+└── assets/
+    └── screenshots/
+        └── Chat Application Demo Exit.png
+        └── Chat Application Demo.png
 ```
 
 ## Requirements
