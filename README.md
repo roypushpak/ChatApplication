@@ -2,7 +2,8 @@
 
 ## Screenshot
 
-![TCP Chat Application Demo](assets/screenshots/chat-application-demo.png)
+![TCP Chat Application Demo](assets/screenshots/Chat Application Demo.png)
+![TCP Chat Application Demo](assets/screenshots/Chat Application Demo Exit.png)
 
 A Python TCP client-server chat application with a desktop GUI, multi-client support, and ACK-based echo responses.
 
