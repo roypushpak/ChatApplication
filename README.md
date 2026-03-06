@@ -111,36 +111,3 @@ hello ACK
 3. The server handles multiple clients using threads.
 4. When a client sends a message, the server sends the same message back with `ACK`.
 5. When the client sends `exit`, the server closes that client's connection.
-
-## Why This Project Is Good for GitHub
-
-- clear networking concept
-- visual desktop interface
-- easy to run locally
-- demonstrates sockets, threading, and GUI programming
-- suitable for coursework and portfolio use
-
-## Suggested Repository Settings
-
-**Repository name**
-```text
-SocketEcho-GUI
-```
-
-**Short description**
-```text
-A Python TCP client-server chat application with a Tkinter GUI, multi-client support, and ACK-based echo responses.
-```
-
-## Demo Tips for Your GitHub Repo
-
-- Pin this repository on your GitHub profile
-- Add the screenshots in the README
-- Include a short screen recording later for a stronger portfolio presentation
-- Mention that the project was built for a Computer Networks course
-
-## Author
-
-**Roy Pushpak**
-
-GitHub: [@roypushpak](https://github.com/roypushpak)
