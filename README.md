@@ -1,5 +1,9 @@
 # Chat Application
 
+## Screenshot
+
+![TCP Chat Application Demo](assets/screenshots/chat-application-demo.png)
+
 A Python TCP client-server chat application with a desktop GUI, multi-client support, and ACK-based echo responses.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
