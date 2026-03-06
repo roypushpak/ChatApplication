@@ -1,4 +1,4 @@
-# SocketEcho GUI
+# Chat Application
 
 A Python TCP client-server chat application with a desktop GUI, multi-client support, and ACK-based echo responses.
 
@@ -8,7 +8,7 @@ A Python TCP client-server chat application with a desktop GUI, multi-client sup
 
 ## Overview
 
-**SocketEcho GUI** is a computer networks project built with Python sockets and Tkinter. It includes:
+**Chat Application** is a computer networks project built with Python sockets and Tkinter. It includes:
 
 - a **GUI server** that accepts multiple client connections
 - a **GUI client** that lets users send messages interactively
