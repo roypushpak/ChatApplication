@@ -16,11 +16,6 @@ A Python TCP client-server chat application with a desktop GUI, multi-client sup
 - an **ACK echo response** for every message sent by a client
 - graceful connection termination when a client sends `exit`
 
-This project is well suited for:
-- a **Computer Networks assignment**
-- a **GitHub portfolio project**
-- a beginner-friendly example of **TCP socket programming with a GUI**
-
 ## Features
 
 - TCP sockets only
@@ -30,20 +25,6 @@ This project is well suited for:
 - Each client can disconnect by sending `exit`
 - Simple, interactive interface for demos and presentations
 
-## Screenshots
-
-### Server GUI
-
-![Server GUI](assets/screenshots/server_gui_preview.png)
-
-### Client GUI
-
-![Client GUI](assets/screenshots/client_gui_preview.png)
-
-### Multi-Client Demo
-
-![Multi Client Demo](assets/screenshots/multi_client_demo.png)
-
 ## Project Structure
 
 ```text
@@ -52,11 +33,6 @@ SocketEcho-GUI/
 ├── Server.py
 ├── README.md
 ├── .gitignore
-└── assets/
-    └── screenshots/
-        ├── client_gui_preview.png
-        ├── multi_client_demo.png
-        └── server_gui_preview.png
 ```
 
 ## Requirements
